@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Angular & Vue
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me : Email - benbeemudy@gmail.com || Phone - 0784174687
+- 📫 How to reach me : Email - benbeemudy@gmail.com || Phone - +263784174687
 
 <!---
 Brisis/Brisis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
