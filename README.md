@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brisis
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Angular & Vue
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m a coder
+- 🌱 I’m a Flutter, Kotlin, Java, Python, Laravel, Angular & Vue Developer
+- 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me : Email - benbeemudy@gmail.com || Phone - +263784174687
 
 <!---
